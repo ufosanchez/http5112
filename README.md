@@ -1,17 +1,9 @@
 # http5112
-Repo to store files from HTTP5112
+Repo to store files from HTTP5112 - Christine Bittle (C# ASP.NET) & Jemi Choi (MySQL)
 
-Description: In this class, we are gonna learn C# ASP.NET and MySQL
+| Class | Time |
+| ----------- | ----------- |
+| **MySQL** | Tuesday 11:40 am - 2:20 pm |
+| **C# ASP.NET** | Tuesday 3:20 pm - 6:00 pm |
 
-Instructions: 
-1. Download MAMP
-2. Download Visual Studio
-3. A Windows computer is recommended 
-
-Links:
-<br>
-https://visualstudio.microsoft.com/vs/community/
-<br>
-https://www.mamp.info/en/downloads/
-<br>
-https://www.mysql.com/
+## This folder will have all the works of these two courses
